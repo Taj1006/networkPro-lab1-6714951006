@@ -14,7 +14,7 @@ A small network-programming project demonstrating Python sockets and communicati
 ```text
 tcp_echo_server/   TCP server/client and their Dockerfiles
 udp_server_test/   UDP server/client and their Dockerfiles
-screenshots/      Original manual lab demonstration images
+screenshots/      Privacy-redacted historical lab demonstration images
 tests/            Dependency-free checks with mocked socket I/O
 ```
 
